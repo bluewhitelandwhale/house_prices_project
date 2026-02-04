@@ -1,2 +1,2 @@
-# house_prices_project
-House Prices Kaggle project
+# House Prices Project
+This project predicts house prices using Kaggle dataset.
