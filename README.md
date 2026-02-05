@@ -1,6 +1,6 @@
 # House Prices Project
 This project predicts house prices using Kaggle dataset.
-
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data  
 
   Project Progress Summary (So Far)  
   Project: House Prices – Advanced Regression Techniques (Kaggle)  
