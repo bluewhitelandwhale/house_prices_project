@@ -1,6 +1,7 @@
 ## Project Progress Summary
 
 This project explores the Kaggle **House Prices** dataset with a focus on building a clean, realistic machine learning workflow rather than leaderboard optimization.
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 
 ### What Has Been Done
 
